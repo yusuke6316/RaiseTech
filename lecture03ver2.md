@@ -2,12 +2,12 @@
 ## 1.アプリケーションのデプロイ
 -　cloud9を立ち上げ、GitHubからターミナルでサンプルアプリケーションを入手（git clone）
 -　動画を手本にして、デプロイするための操作を行う
-![デプロイ後の画面](image_1.png)
-![rubyのバージョン確認](image_3.png)
-![APサーバーのバージョン確認](image_4.png)
-![APサーバー停止](image_6.png)
-![APサーバー停止に伴い、アプリケーション動作せず](image_7.png)
-![DBサーバーの停止](image_8.png)
+![デプロイ後の画面](images/image_1.png)
+![rubyのバージョン確認](images/image_3.png)
+![APサーバーのバージョン確認](images/image_4.png)
+![APサーバー停止](images/image_6.png)
+![APサーバー停止に伴い、アプリケーション動作せず](images/image_7.png)
+![DBサーバーの停止](images/image_8.png)
 
 
 ## 2.サーバーについて
