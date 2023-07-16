@@ -1,43 +1,40 @@
-#VPCの設定
+# VPCの設定
 ![VPCの設定](images1/vpcの設定.png)
 
-#パブリックサブネットの設定
+# パブリックサブネットの設定
 ![パブリックサブネットの設定](images1/publicサブネット（1a zone）の設定.png)
 
-#プライベートサブネットの設定
+# プライベートサブネットの設定
 ![プライベートサブネットの設定](images1/privateサブネットの設定.png)
 
-#インターネットゲートウェイの設定
+# インターネットゲートウェイの設定
 ![インターネットゲートウェイの設定](images1/igwの設定.png)
 
-#EC2インスタンスへのSSH接続確認画面
+# EC2インスタンスへのSSH接続確認画面
 ![EC2インスタンスへのSSH接続確認画面](images1/EC2.ssh接続.png)
 
-#apacheのインストール画面
+# apacheのインストール画面
 ![apacheのインストール画面](images1/apache.install.png)
 
-#apacheが正常に動作しているかの確認画面
+# apacheが正常に動作しているかの確認画面
 ![apacheが正常に動作しているかの確認画面](images1/apache.running.png)
 
-#yumのupdate画面
+# yumのupdate画面
 ![yumのupdate画面](images1/yum.update.png)
 
-#apacheのインストール画面
-![apacheのインストール画面](images1/apache.install.png)
-
-#apacheの自動起動設定画面
+# apacheの自動起動設定画面
 ![apacheの自動起動設定画面](images1/自動起動設定.png)
 
-#RDS作成画面
+# RDS作成画面
 ![RDS作成画面](images1/RDSの設定画面.png)
 
-#RDSのセキュリティグループの設定画面
+# RDSのセキュリティグループの設定画面
 ![RDSのセキュリティグループの設定画面](images1/RDSセキュリティグループ.png)
 
-#RDS作成後のルートテーブル
+# RDS作成後のルートテーブル
 ![RDS作成後のルートテーブル](images1/RDS作成後ルートテーブル.png)
 
-#EC2からRDSへの接続画面
+# EC2からRDSへの接続画面
 ![EC2からRDSへの接続画面](images1/ec2.ssh.ec2.rds接続確認.png)
 
 
