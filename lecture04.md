@@ -2,10 +2,10 @@
 ![VPCの設定](images1/vpcの設定.png)
 
 # パブリックサブネットの設定
-![パブリックサブネットの設定](images1/publicサブネット（1a zone）の設定.png)
+![パブリックサブネットの設定](images1/public.png)
 
 # プライベートサブネットの設定
-![プライベートサブネットの設定](images1/privateサブネットの設定.png)
+![プライベートサブネットの設定](images1/private.png)
 
 # インターネットゲートウェイの設定
 ![インターネットゲートウェイの設定](images1/igwの設定.png)
