@@ -29,10 +29,10 @@
 ![RDS作成画面](images1/RDSの設定画面.png)
 
 # RDSのセキュリティグループの設定画面
-![RDSのセキュリティグループの設定画面](images1/RDSセキュリティグループ.png)
+![RDSのセキュリティグループの設定画面](images1/RDSsec.png)
 
 # RDS作成後のルートテーブル
-![RDS作成後のルートテーブル](images1/RDS作成後ルートテーブル.png)
+![RDS作成後のルートテーブル](images1/RDSrt.png)
 
 # EC2からRDSへの接続画面
 ![EC2からRDSへの接続画面](images1/ec2.ssh.ec2.rds接続確認.png)
